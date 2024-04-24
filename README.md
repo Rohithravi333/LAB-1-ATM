@@ -8,10 +8,22 @@ To create ATM System software that will meet the needs of the applicant and help
 to withdraw money,deposit.
 ### UML DIAGRAMS:
 
+### USECASE DIAGRAM:
+![](ATM-1.png)
 
+### SEQUENCE DIAGRAM:
+![](ATM-SQUENCE.png)
+### CLASSDIAGRAM:
+![](ATM-CLASS.png)
 
-
-
+### STATECHART DIAGRAM:
+![](ATM-STATE.png)
+### ACTIVITY DAIGRAM:
+![](ATM-ACTIVITY.png)
+### COMMUNICATION DIAGRAM:
+![](ATM-COMMUNICATION.png)
+### PACKAGE DAIGRAM:
+![](ATM-PACKAGE.png)
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
